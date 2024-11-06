@@ -15,7 +15,7 @@ click==8.1.7
 contourpy==1.1.1
 cycler==0.12.1
 decorator==4.4.2
-disutils==1.4.32.post2
+disutils
 fonttools==4.54.1
 frozenlist==1.5.0
 gitdb==4.0.11
